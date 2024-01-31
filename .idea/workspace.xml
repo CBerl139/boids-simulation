@@ -4,23 +4,59 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce96be18-9f83-4ba5-87a6-8be83b404ff1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boids-project.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Boids.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Border.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Camera.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GameScene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Obstacle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ObstacleMoving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/UnitVector2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Vector2.java" afterDir="false" />
+    <list default="true" id="ce96be18-9f83-4ba5-87a6-8be83b404ff1" name="Changes" comment="added javafx directory">
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.base/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.base/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.base/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.controls/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.controls/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.controls/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.fxml/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.fxml/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.fxml/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.graphics/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.graphics/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.graphics/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.graphics/jpeg_fx.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.graphics/mesa3d.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.media/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.media/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.media/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.media/directshow.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.media/glib.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.media/gstreamer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.media/libffi.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.swing/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.swing/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.swing/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.web/ADDITIONAL_LICENSE_INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.web/ASSEMBLY_EXCEPTION" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.web/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.web/icu_web.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.web/libxml2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.web/libxslt.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/legal/javafx.web/webkit.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx-swt.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx.base.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx.controls.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx.fxml.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx.graphics.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx.media.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx.swing.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/lib/javafx.web.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javafx/src.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boids-project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/boids-project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Boids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Boids.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Border.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Border.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Camera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Camera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GameScene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GameScene.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Obstacle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Obstacle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObstacleMoving.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObstacleMoving.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UnitVector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UnitVector2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Vector2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Vector2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +112,18 @@
       <option name="presentableId" value="Default" />
       <updated>1702039594515</updated>
     </task>
+    <task id="LOCAL-00001" summary="added javafx directory">
+      <created>1706734042588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1706734042588</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added javafx directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="added javafx directory" />
   </component>
 </project>
