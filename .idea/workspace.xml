@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce96be18-9f83-4ba5-87a6-8be83b404ff1" name="Changes" comment="added javafx directory">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="ce96be18-9f83-4ba5-87a6-8be83b404ff1" name="Changes" comment="added readme">
+      <change afterPath="$PROJECT_DIR$/img/capture.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,11 +75,26 @@
       <option name="project" value="LOCAL" />
       <updated>1706734184943</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added readme">
+      <created>1706734514891</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706734514891</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added readme">
+      <created>1706734786583</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1706734786583</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added javafx directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="added javafx directory" />
+    <MESSAGE value="added readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="added readme" />
   </component>
 </project>
